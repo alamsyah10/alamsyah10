@@ -1,1 +1,1 @@
-[![Alamsyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=alamsyah10)](https://github.com/alamsyah10/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alamsyah10&layout=compact&langs_count=10)
